@@ -1,0 +1,16 @@
+正在定位元素信息：定位方式->id, value值->id_username
+正在定位元素信息：定位方式->id, value值->id_password
+正在定位元素信息：定位方式->css selector, value值->#panel-login>div.panel-body>button
+正在定位元素信息：定位方式->xpath, value值->//div[@id="left-side"]//li[6]/a
+正在定位元素信息：定位方式->xpath, value值->//ul[@class="breadcrumb"]/following-sibling::div/div[2]/div/a
+正在定位元素信息：定位方式->id, value值->id_student_id
+正在定位元素信息：定位方式->id, value值->id_name
+正在定位元素信息：定位方式->id, value值->id_score
+正在定位元素信息：定位方式->xpath, value值->//*[text()=" 保存"]
+正在定位元素信息：定位方式->xpath, value值->//div[@id="left-side"]//li[6]/a
+正在定位元素信息：定位方式->xpath, value值->//ul[@class="breadcrumb"]/following-sibling::div/div[2]/div/a
+正在定位元素信息：定位方式->id, value值->id_student_id
+正在定位元素信息：定位方式->id, value值->id_name
+正在定位元素信息：定位方式->id, value值->id_score
+正在定位元素信息：定位方式->xpath, value值->//*[text()=" 保存"]
+正在定位元素信息：定位方式->xpath, value值->//table
